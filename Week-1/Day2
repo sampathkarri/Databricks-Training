@@ -1,0 +1,30 @@
+# Day 2 - SQL Practice
+
+## Topics Covered
+- Aggregate Functions
+- GROUP BY
+- HAVING Clause
+- ORDER BY
+- Sorting Queries
+
+## SQL Concepts Learned
+- Grouping records
+- Conditional grouping
+- Salary analysis
+- Sorting data
+- Aggregate calculations
+
+## Functions Used
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+- COUNT()
+
+## Clauses Used
+- GROUP BY
+- HAVING
+- ORDER BY
+
+## Practice Completed
+- SQL Queries 20 to 35
