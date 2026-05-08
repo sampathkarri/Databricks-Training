@@ -1,21 +1,19 @@
-# Day 1 - SQL Practice
+# Day 1 - SQL Basics
 
 ## Topics Covered
-- SQL Basics
-- Filtering Queries
+- SELECT Queries
+- WHERE Clause
+- LIKE Operator
+- String Functions
+- Date Functions
 - Aggregate Functions
-- GROUP BY & HAVING
-- JOIN Queries
-- Nested Queries
+- GROUP BY
 
-## Practice Files
-- sql-practice-queries.pdf
-- practice.sql
+## SQL Concepts Learned
+- Filtering data
+- Pattern matching
+- Aggregate calculations
+- Grouping records
 
-## Dataset Used
-- Employee Table
-- Department Table
-- Project Table
-
-## Total Questions
-65 SQL Practice Questions
+## Practice Completed
+- Queries 1 to 19
